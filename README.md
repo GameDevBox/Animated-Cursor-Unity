@@ -10,7 +10,7 @@ Simple Animated Cursor Scripts
 
 I didn't set the default cursor, you can add it yourself.
 
-🔥see the video tutorial for how you can set it up: https://youtu.be/Os_z0DvbkEc
+🔥see the video tutorial for how you can set it up: https://youtu.be/7QEo7-xFdJs
 
 
 Just a guy making games.

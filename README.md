@@ -4,8 +4,11 @@ Simple Animated Cursor Scripts
 
 ## HOW TO:
 • Download 3 Scripts
+
 • AnimatedCursor.cs simply showcases how it works 
+
 • MultiCursorHandler2D is for 2D games giving you more control to set PNG for cursor
+
 • MultiCursorHandler3D is for 3D games giving you more control to set PNG for cursor
 
 I didn't set the default cursor, you can add it yourself.
